@@ -1,1 +1,8 @@
-# Practice-Tasks-on-CSS-root-Selector
+![WhatsApp Image 2026-02-06 at 14 13 27 (1)](https://github.com/user-attachments/assets/39c9d0e8-c362-486d-b653-b34d80632594)
+![WhatsApp Image 2026-02-06 at 14 13 27 (2)](https://github.com/user-attachments/assets/feee2be0-97c9-4cb3-8317-b9e202b8e08f)
+![WhatsApp Image 2026-02-06 at 14 13 27](https://github.com/user-attachments/assets/5cf706a1-555f-46e3-a7f7-77206399a155)
+![WhatsApp Image 2026-02-02 at 22 43 46](https://github.com/user-attachments/assets/cad969cb-a258-472f-b2c4-3644fcfa8897)
+![WhatsApp Image 2026-02-06 at 14 13 28 (1)](https://github.com/user-attachments/assets/eea792af-d183-47a4-96bc-f34919e55d72)
+![WhatsApp Image 2026-02-06 at 14 13 28 (2)](https://github.com/user-attachments/assets/26794896-2c68-4121-8103-422d823645ff)
+![WhatsApp Image 2026-02-06 at 14 13 28 (3)](https://github.com/user-attachments/assets/ac5fbe6f-6500-4acf-ae21-abe417b46067)
+![WhatsApp Image 2026-02-06 at 14 13 28 (3)](https://github.com/user-attachments/assets/c2277bcc-f11f-491f-a59e-9dabaf1b1049)
